@@ -565,7 +565,7 @@ const Registration = () => {
                     <option value="" disabled>
                       Which role do you wish to apply for?
                     </option>
-                    <option value="CA">CA (Campus Ambassador)</option>
+                     {/* <option value="CA">CA (Campus Ambassador)</option> */}
                     <option value="Contributor">Contributor</option>
                     <option value="Mentor">Mentor</option>
                     <option value="ProjectAdmin">Project Admin</option>
