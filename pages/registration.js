@@ -602,7 +602,7 @@ const Registration = () => {
                       <div className="mb-6 text-base">
                         Wait is over! Join{" "}
                         <span className="font-bold text-[#f86f26]">
-                          GSSoC '24 Extd
+                          GSSoC&apos;24 Extd
                         </span>{" "}
                         as a{" "}
                         <span className="font-bold text-[#f59e29]">
@@ -640,7 +640,7 @@ const Registration = () => {
                         projects and guide contributors across the globe? Submit
                         Your Projects & Become a{" "}
                         <span className="font-bold text-[#f86f26]">
-                          GSSoC '24 Extd
+                          GSSoC&apos;24 Extd
                         </span>{" "}
                         PA.
                       </div>
@@ -673,7 +673,7 @@ const Registration = () => {
                         <span className="font-bold text-[#f59e29]">Mentor</span>{" "}
                         at{" "}
                         <span className="font-bold text-[#f86f26]">
-                          GSSoC '24 Extended!
+                          GSSoC&apos;24 Extended!
                         </span>
                       </div>
                       <div className="flex justify-center items-center px-4">
