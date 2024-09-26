@@ -29,7 +29,7 @@ const CALeaderboard = () => {
   const [showConfetti, setShowConfetti] = useState(true);
   const [year, setYear] = useState(new Date().getFullYear());
   const { height, width } = useWindowDimensions();
-  const [comingsoon, setComingSoon] = useState(true);
+  const [comingsoon, setComingSoon] = useState(false);
   let [lastupdated, setLastupdated] = useState("");
   function useWindowDimensions() {
     const hasWindow = typeof window !== "undefined";
