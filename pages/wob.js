@@ -5,7 +5,7 @@ import React, { useEffect } from "react";
 const Wob = () => {
   const router = useRouter();
   useEffect(() => {
-    window.location.href = "https://gs-wob.vercel.app/wob";
+    window.location.href = "https://wob.girlscript.tech/wob";
   }, [router.pathname]);
   return <></>;
 };
