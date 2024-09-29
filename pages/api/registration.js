@@ -37,7 +37,9 @@ const handler = async (req, res) => {
       const { role, referral, ...formData } = req.body;
 
       let savedData;
-
+      if (referral) {
+        formData.referral = referral; 
+      }
       switch (role) {
         case "CA":
           savedData = await CA.create(formData);
