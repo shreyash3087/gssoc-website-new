@@ -55,17 +55,17 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/mehakagg1313">
-            <img src="https://avatars.githubusercontent.com/u/77895187?v=4" width="100;" alt="mehakagg1313"/>
-            <br />
-            <sub><b>MEHAK AGGARWAL</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/MastanSayyad">
             <img src="https://avatars.githubusercontent.com/u/101971980?v=4" width="100;" alt="MastanSayyad"/>
             <br />
             <sub><b>Mastan Sayyad</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mehakagg1313">
+            <img src="https://avatars.githubusercontent.com/u/77895187?v=4" width="100;" alt="mehakagg1313"/>
+            <br />
+            <sub><b>MEHAK AGGARWAL</b></sub>
         </a>
     </td>
     <td align="center">
